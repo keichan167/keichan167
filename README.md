@@ -1,4 +1,7 @@
 ### Hi there 👋
+![](https://github-readme-stats.vercel.app/api/top-langs?username=keichan167)
+![](https://skillicons.dev/icons?i=html,css,js,bootstrap,c,py,ruby,rails)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keichan167vn7n24fzkq&theme=default)
 
 <!--
 **keichan167/keichan167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
