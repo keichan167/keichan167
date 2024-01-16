@@ -1,6 +1,9 @@
-### Hi there 👋
-![](https://skillicons.dev/icons?i=html,css,bootstrap,c,py,ruby,rails)
+## programing language 👋
+![](https://skillicons.dev/icons?i=html,css,bootstrap,c,py,ruby,rails)  
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=keichan167)
+## framework
+![](https://skillicons.dev/icons?i=rails)  
+## history
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keichan167vn7n24fzkq&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=keichan167vn7n24fzkq&theme=default)
 
